@@ -15,29 +15,18 @@ h6 {
   font-style: normal;
 }
 
-body p {
-  @import @import
-    url(https://fonts.googleapis.com/css2?family=Rubik:wght@100;200;300;400;500;600;800;900&display=swap);
-  body {
-    font-family: "Rubik", sans-serif;
-  }
-}
-
 ul {
   list-style: none;
   color: #fff;
-}
-
-menu p {
-  font-family: "Turret Road", sans-serif;
-  font-weight: 300;
-  font-style: normal;
 }
 
 .content {
   font-family: "Turret Road", sans-serif;
   font-weight: 300;
   font-style: normal;
+}
+
+.content {
   width: 750px;
   font-size: 28px;
   margin-top: 20px;
