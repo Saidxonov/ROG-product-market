@@ -1,0 +1,207 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Goldman", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+body p {
+  @import @import
+    url(https://fonts.googleapis.com/css2?family=Rubik:wght@100;200;300;400;500;600;800;900&display=swap);
+  body {
+    font-family: "Rubik", sans-serif;
+  }
+}
+
+ul {
+  list-style: none;
+  color: #fff;
+}
+
+menu p {
+  font-family: "Turret Road", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.content {
+  font-family: "Turret Road", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  width: 750px;
+  font-size: 28px;
+  margin-top: 20px;
+}
+
+section a:hover {
+  background-color: rgb(196, 41, 41);
+  color: #000;
+}
+
+section a:focus {
+  background-color: #fff;
+  color: #000;
+}
+
+section p {
+  font-family: "Turret Road", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+section h2 {
+  .goldman-bold {
+    font-family: "Goldman", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+}
+
+.menu {
+  color: #000;
+}
+
+section a {
+  font-size: 25px;
+  font-weight: bold;
+  color: #fff;
+  display: inline-block;
+  padding: 8px 12px;
+  border: 1px solid #fff;
+  border-radius: 8px;
+  margin-top: 20px;
+}
+
+.li1 a,
+.li2 a,
+.li3 a,
+.li4 a,
+.li5 a,
+.li6 a,
+.li7 a,
+.li8 a {
+  color: #000;
+}
+
+.li1,
+.li2,
+.li3,
+.li4,
+.li5,
+.li6,
+.li7,
+.li8 {
+  list-style-type: none;
+  color: #000;
+}
+
+.content {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+section {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  background-attachment: fixed;
+}
+
+#menu {
+  background-image: url("../images/heaer-image-rog-wallpaper.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+#rome {
+  background-image: url("../images/rog-smart-lens.jpg");
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+}
+
+#gaming-pc {
+  background-image: url("../images/gaming-pc-rog.jpg");
+  background-position: center;
+  background-size: cover;
+  color: #fff;
+}
+
+#london {
+  background-image: url("../images/ORG-strix-gaming-laptops.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+#monitors {
+  background-image: url("../images/rog-monitor.jpg");
+  background-position: center;
+  background-size: cover;
+  color: rgb(131, 42, 42);
+}
+
+#phone {
+  background-image: url("../images/rog-phone.jpg");
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+}
+
+#tokio {
+  background-image: url("../images/rog-mouse.webp");
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+}
+
+#handhandles {
+  background-image: url("../images/rog-handhandles.webp");
+  background-position: center;
+  background-size: cover;
+  color: #fff;
+}
+
+#new-york {
+  background-image: url("../images/rog-headphones.webp");
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+ul {
+  list-style: none;
+  color: #fff;
+}
+
+a {
+  text-decoration: none;
+}
+
+h2 {
+  font-size: 50px;
+  color: rgb(177, 74, 74);
+}
+
+ul li a {
+  font-size: 30px;
+  color: #bf7777;
+}
